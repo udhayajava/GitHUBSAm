@@ -1,0 +1,13 @@
+from xml to featured file
+
+#first pick your assigned script
+#Copy that script and paste it in xml folder
+#Open cmd as admin, provide command and tehn enter
+#once conversion is don, converted cucumber feature file will be stored in featured folder.
+
+before starting the execution:
+Copy that modified featured file script to c:/datacert/passport-test-framework/feature/paste your script
+
+Apps > Designer > Custom Commands > ITFcommand (search box) > edit your loc path in 26th line
+*****************
+******************
